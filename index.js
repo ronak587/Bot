@@ -8,7 +8,7 @@ const CHANNEL_USERNAME = "@reelsaver";
 const CHANNEL_LINK = "https://t.me/reelsaver";
 const API_BASE_URL = "https://reelapibot.vercel.app/api";
 
-const ADMIN_IDS = [5108111483, 901201588];
+const ADMIN_IDS = [5108111483, 924088195, 6060830145];
 const USERS_PER_PAGE = 15;
 let MAINTENANCE_MODE = false;
 const adminUserPage = {};

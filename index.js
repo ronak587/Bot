@@ -3,7 +3,7 @@ const axios = require("axios");
 const fs = require("fs");
 const path = require("path");
 
-const BOT_TOKEN = "7574513701:AAFRq5CFwjptYGBnXshhd1QsnnPYV198skg";
+const BOT_TOKEN = "7574513701:AAGDKBdYmEEwufS2g_gmjq9bqgsbeDf8ud8";
 const CHANNEL_USERNAME = "@reelsaver";
 const CHANNEL_LINK = "https://t.me/reelsaver";
 const API_BASE_URL = "https://reelapibot.vercel.app/api";
